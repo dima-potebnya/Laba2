@@ -1,2 +1,2 @@
-# Laba2
-Laba2
+Автор проекту: dima-potebnya
+Стартовий файл: laba2.js
